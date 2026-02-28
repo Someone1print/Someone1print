@@ -1,16 +1,48 @@
-## Hi there 👋
+# Привет, я Junior Python Developer 👋
 
-<!--
-**Someone1print/Someone1print** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Backend Developer | Django, FastAPI  
+💾 PostgreSQL, SQLite | REST API  
+🧠 OOP, SOLID, Clean Architecture  
+⚙️ Git, Docker (basic), Linux  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Обо мне
+
+Я — Junior Python Backend разработчик, специализирующийся на создании серверной логики, REST API и работе с базами данных. Основной стек — Django и FastAPI.
+
+Пишу чистый, поддерживаемый код, соблюдаю принципы ООП и SOLID, умею работать с ORM, проектировать архитектуру приложений и эффективно взаимодействовать в команде.
+
+Постоянно развиваюсь, изучаю новые технологии и улучшаю качество своих проектов.
+
+---
+
+## 🛠 Технологический стек
+
+- **Язык:** Python  
+- **Фреймворки:** Django, FastAPI  
+- **Базы данных:** PostgreSQL, SQLite  
+- **ORM:** Django ORM, SQLAlchemy  
+- **Инструменты:** Git, Docker (базовый уровень), Linux CLI  
+- **Прочее:** REST API, JWT, OOP, SOLID  
+
+---
+
+## 📌 Проекты
+
+🔹 **Django REST API** — backend-сервис с аутентификацией, CRUD и PostgreSQL  
+🔹 **FastAPI Microservice** — асинхронный REST API с JWT  
+🔹 **Telegram Bot** — бот на Python с интеграцией БД  
+
+---
+
+
+## 📫 Контакты
+
+- GitHub: https://github.com/Someone1print 
+- Email: kluchevskidima@gmail.com
+- Telegram: https://t.me/some1print
+
+---
+
+⭐ Открыт к новым возможностям и интересным проектам!
