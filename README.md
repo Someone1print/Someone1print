@@ -3,7 +3,7 @@
 🐍 Python Backend Developer | Django, FastAPI  
 💾 PostgreSQL, SQLite | REST API  
 🧠 OOP, SOLID, Clean Architecture  
-⚙️ Git, Docker (basic), Linux  
+⚙️ Git, Docker (basic), Linux (basic)
 
 ---
 
