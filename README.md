@@ -1,4 +1,4 @@
-# Привет, я Middle Python Developer 👋
+# Привет, я Junior Python Developer 👋
 
 🐍 Python Backend Developer | Django, FastAPI  
 💾 PostgreSQL, SQLite | REST API  
